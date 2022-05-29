@@ -1,2 +1,2 @@
 # DigiSolve
-A digital agency for all you digital needs.
+A digital agency for all your digital needs.
